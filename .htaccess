@@ -1,0 +1,3 @@
+<IFmodule mod_rewrite.c>
+RewriteEngine on
+#Rew
